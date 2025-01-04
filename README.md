@@ -10,3 +10,4 @@ Food & Drinks Specialist @ Joe Franchise
 
 ### Certifications
 Udemy: Data Analysis, MySQL, PowerBI & Tableau
+Coursera: Google - Foundations, Data Everywhere
